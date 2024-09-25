@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer",
+    "organisation": "Orison Technology",
+    "startDate": "start 2nd sept 2024",
+    "endDate": "Present",
+    "location": "India",
+    "experiences": [
+      "Work on orison technology"
+    
+    ],
+    "imageSrc": "../public/assets/company/orisontechnology.png"
+  },
+  {
+    "id": 2,
+    "role": "Back office Executive",
+    "organisation": "Teleperformance",
+    "startDate": "Dec 2023",
+    "endDate": "mar 2024",
+    "location": "India",
+    "experiences": [
+      "Worked on teleperformance"
+      
+    ],
+    "imageSrc": "../public/assets/company/teleperformance.png"
+  },
+  {
+    "id": 3,
+    "role": "Digital marketing ",
+    "organisation": "skygliltz studio",
+    "startDate": "Mar 2024",
+    "endDate": "june 2024",
+    "location": "India",
+    "experiences": [
+      "Worked on Mumbai "
+    ],
+    "imageSrc": "../public/assets/company/skyglitz studio.png"
+  }
+]
